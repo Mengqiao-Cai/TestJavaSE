@@ -1,6 +1,7 @@
 package com.cmq;
 
 import javax.xml.bind.Element;
+import java.sql.SQLOutput;
 import java.util.*;
 
 /**
@@ -77,5 +78,15 @@ public class Test02 {
 
         int[] a10 = new int[9];
         System.out.println(1/3);
+
+        ArrayList<ArrayList<Integer>> map = new ArrayList<>();
+        for (int i=0;i<5;i++) {
+            ArrayList<Integer> tempArray = new ArrayList<>();
+            for (int j=0;j<4;j++) {
+                tempArray.add(j+i);
+            }
+            map.add(tempArray);
+        }
+        System.out.println(map.get(2).get(3));
     }
 }
