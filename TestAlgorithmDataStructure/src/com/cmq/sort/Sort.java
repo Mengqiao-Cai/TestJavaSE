@@ -1,5 +1,8 @@
 package com.cmq.sort;
 
+import java.util.Arrays;
+import java.util.PriorityQueue;
+
 /**
  * @author: cmq
  * @date: 8/3/2024 - 08 - 03 - 1:22 AM
@@ -81,4 +84,16 @@ public class Sort {
             s[i+low] = temp[i];
         }
     }
+
+    public static void heapSort(int[] s) {
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        for (int i:s) {
+            pq.add(i);
+        }
+        int count = 0;
+        while (pq.size()>0) {
+            s[count++] = pq.poll();
+        }
+    }
+
 }

@@ -18,6 +18,8 @@ public class Test {
         }
         return true;
     }
+
+
     public static void main(String[] args) {
         int[] arr1 = {34, 67, 23, 89, 12, 56, 78, 90, 45, 22};
         int[] arr2 = {7, 15, 93, 28, 41, 66, 74, 58, 32, 91};
@@ -50,6 +52,22 @@ public class Test {
         System.out.println(sorted(arr8));
         System.out.println(sorted(arr9));
         System.out.println(sorted(arr10));
+        System.out.println("-----------------test heapSort------------------------");
+        int[] arr11 = {34, 67, 23, 89, 12, 56, 78, 90, 45, 22};
+        int[] arr12 = {7, 15, 93, 28, 41, 66, 74, 58, 32, 91};
+        int[] arr13 = {56, 24, 89, 73, 12, 40, 38, 50, 85, 94};
+        int[] arr14 = {29, 82, 65, 47, 31, 68, 9, 20, 57, 76};
+        int[] arr15 = {11, 99, 63, 21, 37, 46, 84, 52, 33, 80};
+        Sort.heapSort(arr11);
+        Sort.heapSort(arr12);
+        Sort.heapSort(arr13);
+        Sort.heapSort(arr14);
+        Sort.heapSort(arr15);
+        System.out.println(sorted(arr11));
+        System.out.println(sorted(arr12));
+        System.out.println(sorted(arr13));
+        System.out.println(sorted(arr14));
+        System.out.println(sorted(arr15));
 
 
     }
