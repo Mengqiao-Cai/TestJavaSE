@@ -88,5 +88,16 @@ public class Test02 {
             map.add(tempArray);
         }
         System.out.println(map.get(2).get(3));
+
+        String s3 = "abc";
+        String s4 = "abc";
+        System.out.println(s3==s4);
+        System.out.println(s3=="abc");
+        String s5 = s3.substring(1);
+        System.out.println("s5:" + s5);
+        System.out.println(s5=="bc");
+        String s6 = new String("abc");
+        System.out.println(s3==s6);
+
     }
 }
