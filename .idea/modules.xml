@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP3/TestOOP3.iml" filepath="$PROJECT_DIR$/TestOOP3/TestOOP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP4/TestOOP4.iml" filepath="$PROJECT_DIR$/TestOOP4/TestOOP4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestThreeDoor/TestThreeDoor.iml" filepath="$PROJECT_DIR$/TestThreeDoor/TestThreeDoor.iml" />
     </modules>
   </component>
