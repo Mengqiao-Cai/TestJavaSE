@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestAlgorithmDataStructure/TestAlgorithmDataStructure.iml" filepath="$PROJECT_DIR$/TestAlgorithmDataStructure/TestAlgorithmDataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCollection/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection/TestCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" filepath="$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestException/TestException.iml" filepath="$PROJECT_DIR$/TestException/TestException.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestHashMap01/TestHashMap01.iml" filepath="$PROJECT_DIR$/TestHashMap01/TestHashMap01.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestIO/TestIO.iml" filepath="$PROJECT_DIR$/TestIO/TestIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestJavaSE.iml" filepath="$PROJECT_DIR$/TestJavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJunit/TestJunit.iml" filepath="$PROJECT_DIR$/TestJunit/TestJunit.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestNetWork/TestNetWork.iml" filepath="$PROJECT_DIR$/TestNetWork/TestNetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
